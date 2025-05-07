@@ -6,9 +6,6 @@ Message padding
 Compression function with bitwise operations
 Hash computation
 
-Usage
-pythonfrom caziah_sha256 import Encryption
-
 # Create an instance of the encryption class
 enc = Encryption()
 
