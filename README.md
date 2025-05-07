@@ -1,4 +1,4 @@
-#Overview
+# Overview
 This project provides a custom implementation of the SHA-256 hashing algorithm in Python, demonstrating the complete algorithm without external dependencies, including:
 
 1. Message preprocessing
@@ -14,7 +14,7 @@ enc = Encryption()
 hash_result = enc.sha256("Your message here")
 print(hash_result)
 
-#Testing
+# Testing
 The implementation passes validation tests for standard test inputs, including:
 
 Empty string
